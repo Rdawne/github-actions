@@ -39,3 +39,4 @@ jobs:
           files: |
             build/*.exe
           clear_attachments: true
+          
